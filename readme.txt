@@ -24,7 +24,7 @@ In order to run the code as-is, you’ll need to get your own Google Maps Distan
 
 FILES INCLUDED
 
-506_final_project_chamberlain.py
+tsa-mashup.py
 This file is the main program.
 
 cached_results.txt
@@ -33,7 +33,7 @@ Stores the cached pickled responses for running the program offline. Responses f
 apcp.xml
 Stores the TSA Airport metadata necessary to make sense of the data returned from the TSA Security Checkpoint Wait Times API. The program parses the XML and loads up a dictionary of TSAairport class instances to combine with returned API data.
 
-506_Final_Project_Readme_Chamberlain.txt
+readme.txt
 Readme file for the program.
 
 ***
