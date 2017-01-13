@@ -494,7 +494,7 @@ def Main1():
     :return: end of program
     """
     # Set the Google Distance Matrix API Key
-    # google_key = ""  # paste your Google API key here
+    google_key = None  # paste your Google API key here
     if not google_key:
         google_key = raw_input(
             "Enter your Google API key, or paste it in the .py file to avoid this prompt in the future: \n>>")
