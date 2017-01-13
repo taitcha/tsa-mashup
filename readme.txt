@@ -20,6 +20,8 @@ REQUIREMENTS
 
 In order to run the code as-is, you’ll need to get your own Google Maps Distance Matrix API Key, which you can apply for here: https://developers.google.com/maps/documentation/distance-matrix/
 
+Written for Python 2.7.10
+
 ***
 
 FILES INCLUDED
